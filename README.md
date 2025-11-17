@@ -1,4 +1,4 @@
-# Legal Document Analysis - Unleashing the Power of AI on Legal Text
+# Legal Document Analysis 
 
 ## Workflow
 
@@ -15,16 +15,7 @@ E --> G[Summary Output]
 F --> H[Named Entities Output]
 
 ```
-## Live Demo
 
-Try out the Legal Document Summarization model with our interactive demo hosted on Hugging Face Spaces:
-
-[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-blue)](https://shresthasingh-legal-doc-summarization.hf.space)
-
-
-## Dive into the World of Automated Legal Insights!
-
-This repository empowers you to effortlessly analyze legal documents using the cutting-edge capabilities of Natural Language Processing (NLP).  Say goodbye to tedious manual reviews and unlock valuable insights hidden within complex legal text.
 
 **Imagine:**
 
@@ -49,7 +40,7 @@ This repository empowers you to effortlessly analyze legal documents using the c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/shresthasingh1501/legal_document_analysis.git
+   git clone https://github.com/bhatiatanish225/Ai-Legal.git
    ```
 
 2. **Install Dependencies:**
@@ -67,22 +58,18 @@ This repository empowers you to effortlessly analyze legal documents using the c
       * **`analysis.py`:**  This script provides the core functionality for processing PDF documents, summarizing text, and extracting named entities.
       * **`bert-ocr.py`:**  This script enhances text extraction by incorporating OCR capabilities for scanned PDF documents.
 
-4. **Test with Sample PDFs:**
-   * Place your sample PDF documents in the `samplepdfs` directory.
-   * Modify the scripts to point to the correct directory and run them to see the magic in action!
 
 ## Where to Find What:
 
 * **`code/`:** Contains the Python scripts for analysis.
 * **`notebooks/`:** Jupyter notebooks for fine-tuning models.
 * **`readme.md`:** This informative guide!
-* **`requirements.txt`:**  List of project dependencies.
-* **`samplepdfs/`:**  A directory to store your sample PDF files.
+* **`requirements.txt`:**  List of project dependencie
 * **`streamlit-ui.py`:** (Optional) A Streamlit-based UI for interactive analysis (implementation in progress).
 
 
 
-## Unleash the Power of AI on Your Legal Documents Today!
+
 
 This repository provides a powerful toolkit for automating legal document analysis. Start exploring and discover the insights waiting to be uncovered!
 
