@@ -71,8 +71,3 @@ F --> H[Named Entities Output]
 
 
 
-This repository provides a powerful toolkit for automating legal document analysis. Start exploring and discover the insights waiting to be uncovered!
-
-**Contributions are welcome!**  Feel free to open issues, suggest improvements, or submit pull requests.  Let's build a better future for legal analysis together.
-
-**Disclaimer:** This repository is for educational and research purposes.  It is not intended to provide legal advice.
